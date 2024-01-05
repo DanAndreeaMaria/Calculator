@@ -1,0 +1,33 @@
+/*styling the table*/
+
+* {
+    font-family: 'Orbitron', sans-serif;;
+}
+
+table {
+    background-color: #FAEED1;
+    border: none;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="button"] {
+    width: 100%;
+    padding: 20px 40px;
+    background-color: #FFB000;
+    columns: gray;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type="text"] {
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+}
