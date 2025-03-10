@@ -35,7 +35,7 @@ A simple web-based calculator built using HTML, CSS and JavaScript
 
 ## File structure
 
-calculator-app/
+calculator-app/ <br>
 │── index.html  # Main HTML file <br>
 │── style.css   # Styling for the calculator <br>
 │── script.js   # JavaScript logic for calculator functionality <br>
