@@ -7,7 +7,7 @@ A simple web-based calculator built using HTML, CSS and JavaScript
 * Basic arithmetic operations: addition, subtraction, multiplication and division;
 * Supports decimal numbers;
 * Keyboard input functionality;
-* Clear button to reset the display;
+* Clear button to reset the display.
 
 ## Technologies used
 
