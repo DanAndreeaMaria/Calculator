@@ -15,7 +15,7 @@ A simple web-based calculator built using HTML, CSS and JavaScript
 * CSS3
 * JavaScript (with Math.js for evaluation)
 
-## Instalation
+## Installation
 
 1. Clone the repository:
   git clone https://github.com/DanAndreeaMaria/Calculator
