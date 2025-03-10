@@ -4,10 +4,10 @@ A simple web-based calculator built using HTML, CSS and JavaScript
 
 ## Features
 
-* Basic arithmetic operations: addition, subtraction, multiplication and division;
-* Supports decimal numbers;
-* Keyboard input functionality;
-* Clear button to reset the display.
+* Basic arithmetic operations: addition, subtraction, multiplication and division
+* Supports decimal numbers
+* Keyboard input functionality
+* Clear button to reset the display
 
 ## Technologies used
 
